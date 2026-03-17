@@ -9,9 +9,7 @@ import CakeVideo    from "./assets/media/College_CakeCutting.mp4";
 import sarathiVideo from "./assets/media/sarathi_bday.mp4";
 import MuruganTemple from "./assets/media/Murugan_Temple.jpeg";
 
-/* ═══════════════════════════════════════════════════════════
-   GLOBAL CSS
-   ═══════════════════════════════════════════════════════════ */
+
 const GLOBAL_CSS = `
   @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Dancing+Script:wght@600;700&family=Poppins:wght@300;400;500;600&display=swap');
   *, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
